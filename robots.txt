@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugemiequ.github.io/AUW/sitemap_index.txt
+Sitemap: https://ugemiequ.github.io/Bcm/sitemap_index.txt
+Sitemap: https://ugemiequ.github.io/Uyc/sitemap_index.txt
+Sitemap: https://ugemiequ.github.io/wJI/sitemap_index.txt
